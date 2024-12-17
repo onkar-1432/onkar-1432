@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onkar Viralekar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Data Scientist India</h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" /> </p>
 
